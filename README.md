@@ -1,6 +1,6 @@
 ## Magazine Management System
 
-A JavaFX desktop application for managing a magazine subscription service. Users vice. Users can create magazines, manage supplements, 
+A JavaFX desktop application for managing a magazine subscription service. Users can create magazines, manage supplements, 
 register paying and associate customers, and generate monthly billing reports. The system supports data persistence via serialization.
 
 >*The original project was my final assignment for my degree module "Software Architectures".*
